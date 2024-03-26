@@ -11,4 +11,4 @@ In the near future I would like to explore Azure, AWS oraz GCP solutions and lea
 When I'm not immersed in IT, I'm following sport events, riding motocross and watching movies.
 
 <h2>CODE WITH</h2>
-https://github.com/binthon/binthon/assets/74725795/8d8e6b38-7933-4aa2-aee9-c1b1bbda97f4
+![python](https://github.com/binthon/binthon/assets/74725795/e857a197-9c3c-4905-ba5e-002522c49d76)
