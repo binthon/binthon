@@ -9,3 +9,5 @@ I have recently started my journey with exploring the world of DevOps, CD/CI, se
 In the near future I would like to explore Azure, AWS oraz GCP solutions and learn Ansible. 
 
 When I'm not immersed in IT, I'm following sport events, riding motocross and watching movies.
+
+<hr>
