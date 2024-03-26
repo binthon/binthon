@@ -8,4 +8,4 @@ I have recently started my journey with exploring the world of DevOps, CD/CI, se
 
 In the near future I would like to explore Azure, AWS oraz GCP solutions and learn Ansible. 
 
-When I'm not immeesed in IT, I big fans of sport, riding motocross and watching movies.
+When I'm not immesed in IT, I big fans of sport, riding motocross and watching movies.
