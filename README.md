@@ -10,4 +10,5 @@ In the near future I would like to explore Azure, AWS oraz GCP solutions and lea
 
 When I'm not immersed in IT, I'm following sport events, riding motocross and watching movies.
 
+<h2>TECHNOLO</h2>
 <hr>
