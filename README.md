@@ -1,8 +1,8 @@
-Hello! I'm Jakub, a second student at Poznan University of Science and Technology. My IT journey started a few years ago in IT technician school where I learned the basics of networks, operating systems and programming.
+Hello! I'm Jakub, a three year student at Poznan University of Science and Technology. My IT journey started a few years ago in IT technician school where I learned the basics of networks, operating systems and programming.
 Currently, I am expanding my knowledge as a student.
 
 In most of my projects on this account, I use the python language along with libraries for scrapping, data processing and GUI for applications.
-There are also projects related to the university and the student club GHOST, to which I belong.
+There are also projects related to the university and the student club NETWizards, to which I belong.
 
 I have recently started my journey with exploring the world of DevOps, CI/CD, security and pentesting. I believe that understanding and knowledge are the key to developing reliable, fast and high availability IT sytsems. 
 
